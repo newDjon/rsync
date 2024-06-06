@@ -59,9 +59,8 @@ fi
 
 ```
 
-
 ![Задание №2_1](https://github.com/newDjon/rsync/blob/main/скрин_2.png)`
-![Задание №2_2](https://github.com/newDjon/rsync/blob/main/скрин_3.png)`
+![Задание №2_1](https://github.com/newDjon/rsync/blob/main/скрин_3.png)`
 ![Задание №2_3](https://github.com/newDjon/rsync/blob/main/скрин_4.png)`
 
 
